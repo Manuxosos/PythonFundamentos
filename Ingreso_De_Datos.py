@@ -1,0 +1,7 @@
+name = input ("Ingrese su nombre:")
+apellido = input("Ingrese su apellido: ")
+n_Cedula = int (input("Ingrese su numero de cedula:"))
+colorf = input("Ingrese su color favorito: ")
+print("Hola ", name, apellido)
+print("Con numero de cedula: " , n_Cedula)
+print("Tu color favorito es:", colorf)
